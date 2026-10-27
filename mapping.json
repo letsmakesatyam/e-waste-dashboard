@@ -1,0 +1,236 @@
+[
+  {
+    "id": "0",
+    "number": 0,
+    "title": "Course insights & academic plan",
+    "category": "Foundations",
+    "group": "ISA",
+    "description": "Understand the course before changing the system. Course outcomes, curriculum and semester expectations.",
+    "files": [
+      {
+        "name": "Assignment0_Course_Insights_Satyam_Revgade_24102A0035.pdf",
+        "url": "assets/course-insights.pdf",
+        "type": "pdf",
+        "size": 61489,
+        "preview": "previews/course-insights.html",
+        "previewKind": "page preview"
+      },
+      {
+        "name": "EWEM_AAP_CMPN_V_2026-27_AK.docx",
+        "url": "assets/course-plan.docx",
+        "type": "docx",
+        "size": 152239,
+        "preview": "previews/course-plan.html"
+      }
+    ],
+    "co": "CO1",
+    "note": "",
+    "status": "available"
+  },
+  {
+    "id": "1",
+    "number": 1,
+    "title": "Rajasthan \u00b7 state e-waste tracker",
+    "category": "State study",
+    "group": "ISA",
+    "description": "A state-level investigation into collection, recycling, compliance and the gaps between them.",
+    "files": [
+      {
+        "name": "Rajasthan_State_EWaste_Management_Report_FY2025-26.pdf",
+        "url": "assets/rajasthan-report.pdf",
+        "type": "pdf",
+        "size": 543445,
+        "preview": "previews/rajasthan-report.html",
+        "previewKind": "page preview"
+      }
+    ],
+    "co": "CO4",
+    "note": "Report includes illustrative/modelled data; it is a coursework artefact, not a verified government dashboard.",
+    "status": "available"
+  },
+  {
+    "id": "2",
+    "number": 2,
+    "title": "Elemental blueprint",
+    "category": "Materials",
+    "group": "ISA",
+    "description": "",
+    "files": [],
+    "co": "CO3",
+    "note": "",
+    "status": "empty"
+  },
+  {
+    "id": "3",
+    "number": 3,
+    "title": "State tracker \u00b7 presentation",
+    "category": "State study",
+    "group": "ISA",
+    "description": "",
+    "files": [],
+    "co": "CO4",
+    "note": "",
+    "status": "empty"
+  },
+  {
+    "id": "4",
+    "number": 4,
+    "title": "Reimagining material recovery",
+    "category": "Recovery",
+    "group": "ESE",
+    "description": "Automated laser processing and molten-salt recovery, presented as a visual process concept.",
+    "files": [
+      {
+        "name": "assignment02.png",
+        "url": "assets/recovery-poster.png",
+        "type": "png",
+        "size": 2982007
+      }
+    ],
+    "co": "CO3",
+    "note": "Concept poster; efficiency and safety claims have not been experimentally validated.",
+    "status": "available"
+  },
+  {
+    "id": "5",
+    "number": 5,
+    "title": "Five companies. One responsibility.",
+    "category": "Compliance",
+    "group": "ESE",
+    "description": "Compare disclosed e-waste practices at Dixon, Kaynes, Sahasra, Centum and Syrma SGS.",
+    "files": [
+      {
+        "name": "EWaste_Compliance_Analytical_Study_5_Companies.docx",
+        "url": "assets/company-study.docx",
+        "type": "docx",
+        "size": 44471,
+        "preview": "previews/company-study.html"
+      }
+    ],
+    "co": "CO2",
+    "note": "Documentary analysis of public disclosures; not an independent compliance audit.",
+    "status": "available"
+  },
+  {
+    "id": "6",
+    "number": 6,
+    "title": "Startup ideas & waste regulations",
+    "category": "Policy",
+    "group": "ESE",
+    "description": "A five-country comparison of waste-management rules: India, United States, Russia, Japan and Australia.",
+    "files": [
+      {
+        "name": "Waste_Management_5_Rules_Comparison.pdf",
+        "url": "assets/rules-comparison.pdf",
+        "type": "pdf",
+        "size": 65265,
+        "preview": "previews/rules-comparison.html",
+        "previewKind": "page preview"
+      }
+    ],
+    "co": "CO2",
+    "note": "Rules-comparison evidence is supplied. A separate startup proposal has not been supplied.",
+    "status": "partial"
+  },
+  {
+    "id": "7",
+    "number": 7,
+    "title": "Small gadgets. Big responsibility.",
+    "category": "Campaign",
+    "group": "ESE",
+    "description": "A college campaign concept connecting collection drives, repair, reuse and responsible recycling.",
+    "files": [
+      {
+        "name": "ChatGPT Image Sep 29, 2026, 01_49_13 PM.png",
+        "url": "assets/campaign-poster.png",
+        "type": "png",
+        "size": 3175018
+      },
+      {
+        "name": "gemini_generated_video_58b0a5e8.mp4",
+        "url": "assets/campaign-film.mp4",
+        "type": "mp4",
+        "size": 13028748
+      }
+    ],
+    "co": "CO5",
+    "note": "Campaign ideas and creative media; no collection outcomes are claimed.",
+    "status": "available"
+  },
+  {
+    "id": "8",
+    "number": 8,
+    "title": "LEED \u00b7 building a better baseline",
+    "category": "Green buildings",
+    "group": "ESE",
+    "description": "A certification scorecard workbook paired with the supplied LEED v5 reference document.",
+    "files": [
+      {
+        "name": "Green_Building_Final_With_Certification_Percentage.xlsx",
+        "url": "assets/leed-scorecard.xlsx",
+        "type": "xlsx",
+        "size": 14645,
+        "preview": "previews/leed-scorecard.html"
+      },
+      {
+        "name": "LEED v5 BD_C Rating System_July 2026.pdf",
+        "url": "assets/leed-reference.pdf",
+        "type": "pdf",
+        "size": 1507481,
+        "preview": "previews/leed-reference.html",
+        "previewKind": "page preview"
+      }
+    ],
+    "co": "CO4",
+    "note": "Academic certification assessment, not an awarded LEED certification.",
+    "status": "available"
+  },
+  {
+    "id": "9",
+    "number": 9,
+    "title": "Systems worth studying",
+    "category": "Case studies",
+    "group": "ESE",
+    "description": "Explore international and Indian waste-management systems through the supplied report and presentation.",
+    "files": [
+      {
+        "name": "Case_Studies_Original_Report.docx",
+        "url": "assets/case-report.docx",
+        "type": "docx",
+        "size": 63989,
+        "preview": "previews/case-report.html"
+      },
+      {
+        "name": "5_Case_Studies_All_Required_Points.pptx",
+        "url": "assets/case-slides.pptx",
+        "type": "pptx",
+        "size": 60124,
+        "preview": "previews/case-slides.html"
+      }
+    ],
+    "co": "CO4",
+    "note": "",
+    "status": "available"
+  },
+  {
+    "id": "10",
+    "number": 10,
+    "title": "Research into real barriers",
+    "category": "Research",
+    "group": "ESE",
+    "description": "An in-class paper analysis explaining AHP prioritisation and ISM relationships in e-waste management.",
+    "files": [
+      {
+        "name": "24102A0035.pdf",
+        "url": "assets/paper-analysis.pdf",
+        "type": "pdf",
+        "size": 427597,
+        "preview": "previews/paper-analysis.html",
+        "previewKind": "page preview"
+      }
+    ],
+    "co": "CO3",
+    "note": "Paper-analysis worksheet supplied; the original IEEE paper and publication details are not attached.",
+    "status": "partial"
+  }
+]
